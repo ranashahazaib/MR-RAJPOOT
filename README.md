@@ -2,11 +2,7 @@
 i am happy
 // Code for Solution #1
  
-111813711
-facebook sharing button Sharetwitter sharing button Tweetlinkedin sharing button Sharereddit sharing button Shareprint sharing button Printemail sharing button Email
-facebook sharing button Sharetwitter sharing button Tweetlinkedin sharing button Sharereddit sharing button Shareprint sharing button Printemail sharing button Email
-
-
+https://ranashahazaib.github.io/MR-RAJPOOT/
 
 https://ranashahazaib203.wixsite.com/my-site-1
 https://ranashahazaib203.wixsite.com/online-work-trading
