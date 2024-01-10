@@ -34,7 +34,7 @@ CHK 29 FAISALABAD
   <script nomodule="" src="https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js"></script>
   <script nomodule="" src="https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js"></script>
   <script nomodule="" src="https://polyfill.io/v3/polyfill.min.js?features=fetch"></script>
-
+<head><meta name="google-site-verification" content="XiZj1RlfoR6dpQTJamBHSgSckrAB0imqpjK_DWBDw9E" /></head>
   <!-- Performance API Polyfills -->
   <script>
   (function () {
