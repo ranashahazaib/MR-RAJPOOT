@@ -13,7 +13,7 @@ SHAHAZAIB RAJPOOT nick NAME IS MASOOM RAJPOOT
 
 CHK 29 FAISALABAD
 <html lang="en">
-<head>
+<head><meta name="google-site-verification" content="XiZj1RlfoR6dpQTJamBHSgSckrAB0imqpjK_DWBDw9E" />
   
   <meta charset='utf-8'>
   <meta name="viewport" content="width=device-width, initial-scale=1" id="wixDesktopViewport" />
