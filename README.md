@@ -7,8 +7,7 @@ https://ranashahazaib.github.io/MR-RAJPOOT/
 https://ranashahazaib203.wixsite.com/my-site-1
 https://ranashahazaib203.wixsite.com/online-work-trading
 https://ranashahazaib203.wixsite.com/online-work-trading?wix-vod-comp-id=comp-lr6x7zr3
-
-<!DOCTYPE html>
+SHAHAZAIB RAJPOOT WEB CODER NAME IS MASOOM RAJPOOT
 <html lang="en">
 <head>
   
