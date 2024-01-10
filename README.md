@@ -5,9 +5,13 @@ i am happy
 https://ranashahazaib.github.io/MR-RAJPOOT/
 
 https://ranashahazaib203.wixsite.com/my-site-1
+
 https://ranashahazaib203.wixsite.com/online-work-trading
-https://ranashahazaib203.wixsite.com/online-work-trading?wix-vod-comp-id=comp-lr6x7zr3
-SHAHAZAIB RAJPOOT WEB CODER NAME IS MASOOM RAJPOOT
+
+SHAHAZAIB RAJPOOT nick NAME IS MASOOM RAJPOOT 
+
+
+CHK 29 FAISALABAD
 <html lang="en">
 <head>
   
